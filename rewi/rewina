@@ -1,5 +1,5 @@
 #include <studio.h>
-int main (void)
+int main()
 { 
 int radius ;
 printf ("please enter the radius");
