@@ -1,0 +1,9 @@
+#include <studio.h>
+int main (void)
+{ 
+int radius ;
+printf ("please enter the radius");
+scanf ("%i" .&radius);
+printf ("%i\n" . radius);
+	return 0;
+}
